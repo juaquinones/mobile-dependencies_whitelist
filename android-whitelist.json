@@ -1682,7 +1682,7 @@
     },
     {
       "group": "com\\.mercadolibre\\.android\\.configuration\\.provider",
-      "version": "14\\.\\+"
+      "version": "develop-14\\.\\+|production-14\\.\\+|14\\.\\+"
     },
     {
       "expires": "2020-01-01",
